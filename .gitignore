@@ -161,4 +161,5 @@ cython_debug/
 
 *.log
 *.txt
+!*/requirements.txt
 *.DS_Store
